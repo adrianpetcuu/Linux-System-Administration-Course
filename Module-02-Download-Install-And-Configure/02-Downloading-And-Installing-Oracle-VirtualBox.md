@@ -1,12 +1,12 @@
-# What is VirtualBox?
+# Downloading and Installing Oracle VirtualBox
 
-VirtualBox is a free virtualization software developed by Oracle.
-It allows users to run multiple operating systems on a single physical machine
-by creating virtual machines.
+Oracle VirtualBox can be downloaded from the official Oracle website.
+It is available for Windows, Linux, and macOS hosts.
 
-## Key features
-- Runs multiple OS simultaneously
-- Ideal for learning and testing
-- Supports Linux, Windows, and other systems
+## Installation steps
+- Download the VirtualBox installer for your operating system
+- Run the installer and follow the setup instructions
+- Install the Extension Pack for additional features
+- Verify the installation by launching VirtualBox
 
-VirtualBox is commonly used for labs, training, and development environments.
+VirtualBox is now ready to create and manage virtual machines.
